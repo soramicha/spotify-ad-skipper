@@ -1,6 +1,7 @@
 # Welcome to the Spotify Ad Skipper (SAS) :D
 
 ## No more Spotify ads to listen to! Runs on CLI!
+## Demo: https://www.youtube.com/watch?v=VZwXlkJedtg
 
 ### Steps:
 #### - Simply download the shell script and store it in a directory most convinient to you
