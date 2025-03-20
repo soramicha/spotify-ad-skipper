@@ -13,4 +13,4 @@
 #### Disclaimer: This only works if you have the Spotify App and you own an Apple computer because I used osascript which only works for macOS
 
 ### Backstory:
-#### As a third year college student who loves playing music daily, I don't like Spotify Premium Subscription. Therefore, as a student who happens to be studying computer science and learned about shell scripts, I decided to make it a goal for me to make my own Spotify Ad Skipper, haha! And so as I lay in bed recovering from a wisdom tooth surgery just yesterday, I decided to make this because I have nothing else to do. March 20, 2025
+#### As a third year college student who loves playing music daily, I prefer not to have Spotify Premium Subscription. Therefore, as a student who happens to be studying computer science and learned about shell scripts, I decided to make it a goal for me to make my own Spotify Ad Skipper, haha! And so as I lay in bed recovering from a wisdom tooth surgery just yesterday, I decided to make this because I have nothing else to do. March 20, 2025
