@@ -2,7 +2,7 @@
 
 ## No more Spotify ads to listen to! Runs on CLI!
 
-### Steps:
+### Steps: (Disclaimer: This only works if you have the Spotify App and you own an Apple computer because I used osascript which only works for macOS)
 #### - Simply download the shell script and store it in a directory most convinient to you
 #### - Run the script by typing this in your terminal: ./spotify.sh
 
