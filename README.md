@@ -2,9 +2,11 @@
 
 ## No more Spotify ads to listen to! Runs on CLI!
 
-### Steps: (Disclaimer: This only works if you have the Spotify App and you own an Apple computer because I used osascript which only works for macOS)
+### Steps:
 #### - Simply download the shell script and store it in a directory most convinient to you
 #### - Run the script by typing this in your terminal: ./spotify.sh
+
+#### Disclaimer: This only works if you have the Spotify App and you own an Apple computer because I used osascript which only works for macOS
 
 #### And...that's it! Just let it run in your background and whenever you use the Spotify app on your computer it should quit Spotify immediately once it detects and advertisement, re-open it for you, and then play the next song available in your playlist that you were on!
 
