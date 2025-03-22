@@ -6,6 +6,7 @@
 ### Steps:
 #### - Simply download the shell script and store it in a directory most convinient to you (ex. downloads folder)
 #### - Then go to that directory in the terminal
+#### - Then type: chmod +x spotify.sh (this is to enable executing permissions)
 #### - Now run the script by typing this: ./spotify.sh
 
 #### And...that's it! Just let it run in your background and whenever you use the Spotify app on your computer it should quit Spotify immediately once it detects and advertisement, re-open it for you, and then play the next song available in your playlist that you were on! Make sure that if you want to quit Spotify once and for all, stop the script first, otherwise it will reopen Spotify for you lol
